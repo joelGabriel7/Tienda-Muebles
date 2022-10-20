@@ -5,7 +5,13 @@ html{
     box-sizing: inherit;
 
 }
+body{
+    font-family: 'Raleway', sans-serif;
+}
 /*Globales*/
+h1,h2,h3{
+    font-family: 'Playfair Display', serif;
+}
 a{
     text-decoration: none;
     color: #000000;
@@ -68,7 +74,7 @@ img{
 .categoria a:hover{
     background-color: #037bc0;
     color: #ffffff;
-    border-bottom-right-radius: 7px;
+    border-bottom-right-radius: 10px;
 }
 .listado-categorias{
     display: grid;
