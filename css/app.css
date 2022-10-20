@@ -3,48 +3,45 @@ html{
 }
 *,*::before, *:after{
     box-sizing: inherit;
-}
 
-.nombre-sitio{
-    font-size: 2em;
-    color: #191c32;
-    margin-top: 100px ;
-    padding: 100px;
 }
-
-h1 span{
-    color: #037bc0;
-}
-/*.enlace {
-    text-transform: uppercase;
-    font-weight: bold;
+/*Globales*/
+a{
     text-decoration: none;
+    color: #000000;
+}
+.contenedor{
+    max-width: 1200px;
+    margin: 0 auto ;
+
+}
+/*Header y navegacion*/
+.nombre-sitio{
+    font-size:;
+    color: #191c32;
+    margin-top: 10px ;
+    padding: 10px;
+    text-align: center;
+}
+.nombre-sitio span{
     color: #037bc0;
 }
-.color-rojo{
-    color: red;
-}*/
-/** Sobre nosotros**/
-.sobre-nosotros{
-    background-color: red;
-    width: 200px;
-    padding: 25px;
-    box-sizing: border-box;
+
+.contenedor-navegacion{
+    border: 1px solid #e1e1e1;
 }
 
-.sobre-empresa{
-    background-color: blue;
-    width: 500px;
-    padding: 100px;
-    box-sizing: border-box;
+.nav-principal{
+    
+    padding-top:20px;
+    padding-bottom: 20px; 
+   
 }
-/**Display inline e inline-bloc y block**/
-
-/*a{
-    background-color: darkblue;
-    color: #fff;
-    width: 300px;
-    height: 200px;
-    display: inline-block;
-
-}*/
+.hero{
+    background-image:url(../img/principal.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+    height: 500px;
+    border: 2px solid #e1e1e1;
+}
