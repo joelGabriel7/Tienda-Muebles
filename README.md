@@ -8,7 +8,7 @@ Hola, Este proyecto es la interfaz grafica de una Ecommerce sobre Tienda de Mueb
 
 ![imagen](https://user-images.githubusercontent.com/90260089/197675481-40a5a572-432f-45f2-864d-595097535d9a.png)
 
-#Section Products
+# Section Products
 
 ![imagen](https://user-images.githubusercontent.com/90260089/197675588-9f673a8e-9c25-49a6-a6b0-d5f1333e4ed8.png)
 
